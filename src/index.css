@@ -32,6 +32,10 @@ body > div {
   background-color: #b05f6d;
   color: white;
 }
+.green {
+  background: lightseagreen;
+  color: white;
+}
 .blue {
   background-color: #275db3;
   color: white;
